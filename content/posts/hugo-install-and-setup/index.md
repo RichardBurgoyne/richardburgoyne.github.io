@@ -137,7 +137,7 @@ Each post will be a directory name containing a `featured.png`, which will be th
 ![](/hugo-content-structure.png)
 
 You can see the code for this post by going to the [repo](
-https://github.com/RichardBurgoyne/richardburgoyne.github.io/tree/main/content/posts/hugo-install-and-setup.md) to get some inspiration
+https://github.com/RichardBurgoyne/richardburgoyne.github.io/blob/main/content/posts/hugo-install-and-setup/index.md) to get some inspiration
 
 
 And this is just the beginning, there is so much customisation you can do with the Blowfish theme that we could be here all day. I would suggest taking a look at the possibilities, and over time I will slowly update this post’s format with the new things I learn to continue refining the blog.
