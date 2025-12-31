@@ -1,3 +1,10 @@
+---
+title: "Hugo Install And Setup"
+date: 2025-12-31T22:48:00+11:00
+publishDate: 2025-12-31T22:48:00+11:00
+draft: false
+---
+
 ## Let's set up my personal blog
 
 As the time draws closer to midnight and a new year sets upon us, perhaps I should fulfil my New Year’s resolution for 2025... starting a blog.

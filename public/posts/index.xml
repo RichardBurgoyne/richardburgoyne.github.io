@@ -9,12 +9,12 @@
     <managingEditor>hello@richardburgoyne.com (Richard Burgoyne)</managingEditor>
     <webMaster>hello@richardburgoyne.com (Richard Burgoyne)</webMaster>
     
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 31 Dec 2025 22:48:00 +1100</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title></title>
+      <title>Hugo Install And Setup</title>
       <link>http://localhost:1313/posts/hugo-install-and-setup/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 31 Dec 2025 22:48:00 +1100</pubDate>
       <author>hello@richardburgoyne.com (Richard Burgoyne)</author>
       <guid>http://localhost:1313/posts/hugo-install-and-setup/</guid>
       <description></description>
