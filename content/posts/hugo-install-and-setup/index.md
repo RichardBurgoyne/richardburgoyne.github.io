@@ -3,6 +3,7 @@ title: "Hugo Install And Setup"
 date: 2025-12-31T22:48:00+11:00
 publishDate: 2025-12-31T22:48:00+11:00
 draft: false
+tags: ["hugo", "website", "github"]
 ---
 
 ## Let's set up my personal blog

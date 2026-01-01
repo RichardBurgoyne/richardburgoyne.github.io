@@ -8,7 +8,7 @@
     <language>en</language>
     <managingEditor>hello@richardburgoyne.com (Richard Burgoyne)</managingEditor>
     <webMaster>hello@richardburgoyne.com (Richard Burgoyne)</webMaster>
-    
+    <copyright>© 2026 Richard Burgoyne</copyright>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
