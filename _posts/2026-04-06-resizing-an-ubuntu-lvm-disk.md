@@ -1,7 +1,7 @@
 ---
 title: "Resizing an Ubuntu LVM Disk"
-date: 2026-04-06T22:48:00+11:00
-publishDate: 2026-04-06T22:48:00+11:00
+date: 2026-04-06T19:42:00+11:00
+publishDate: 2026-04-06T19:42:00+11:00
 draft: false
 tags: ["lvm", "ubuntu", "disk"]
 ---
